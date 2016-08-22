@@ -1,0 +1,5 @@
+.btn[class*=bg-]:hover,
+.btn[class*=bg-]:focus,
+.btn[class*=bg-].focus {
+  color: #fff;
+}
